@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "label": "Cela peut \u00eatre un bon outil pour votre communaut\u00e9 Si",
+    "description": "",
+    "status": 1,
+    "sort_index": 1
+  },
+  {
+    "id": 2,
+    "label": "Comment cela fonctionne",
+    "description": "",
+    "status": 1,
+    "sort_index": 2
+  },
+  {
+    "id": 3,
+    "label": "d\u00e9tails Finer",
+    "description": "",
+    "status": 1,
+    "sort_index": 3
+  },
+  {
+    "id": 4,
+    "label": "Comment commencer",
+    "description": "",
+    "status": 1,
+    "sort_index": 4
+  },
+  {
+    "id": 5,
+    "label": "Les d\u00e9fis de cr\u00e9ation ou d'utiliser ce produit",
+    "description": "",
+    "status": 1,
+    "sort_index": 5
+  },
+  {
+    "id": 6,
+    "label": "M\u00e9thodes de distribution",
+    "description": "",
+    "status": 1,
+    "sort_index": 6
+  },
+  {
+    "id": 8,
+    "label": "Pas un bon ajustement? Vous pouvez envisager l'un de ces",
+    "description": "",
+    "status": 1,
+    "sort_index": 7
+  },
+  {
+    "id": 9,
+    "label": "Autre",
+    "description": "",
+    "status": 1,
+    "sort_index": 8
+  }
+]

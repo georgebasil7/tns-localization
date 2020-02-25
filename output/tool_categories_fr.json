@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "code": "Storying",
+    "type": "Cat\u00e9gorie",
+    "banner": {
+      "url": "banni\u00e8re / cat\u00e9gorie / storying.jpg"
+    },
+    "status": 1,
+    "sort_index": 0
+  },
+  {
+    "id": 2,
+    "code": "Audio",
+    "type": "Cat\u00e9gorie",
+    "banner": {
+      "url": "banner/category/audio.jpg"
+    },
+    "status": 1,
+    "sort_index": 0
+  },
+  {
+    "id": 3,
+    "code": "Video",
+    "type": "Cat\u00e9gorie",
+    "banner": {
+      "url": "banni\u00e8re / cat\u00e9gorie / video.jpg"
+    },
+    "status": 1,
+    "sort_index": 0
+  },
+  {
+    "id": 4,
+    "code": "Arts",
+    "type": "Cat\u00e9gorie",
+    "banner": {
+      "url": "banni\u00e8re / cat\u00e9gorie / arts.jpg"
+    },
+    "status": 1,
+    "sort_index": 0
+  },
+  {
+    "id": 5,
+    "code": "Orality",
+    "type": "Cat\u00e9gorie",
+    "banner": {
+      "url": "banni\u00e8re / cat\u00e9gorie / orality.jpg"
+    },
+    "status": 1,
+    "sort_index": 0
+  },
+  {
+    "id": 6,
+    "code": "Social Media",
+    "type": "Cat\u00e9gorie",
+    "banner": {
+      "url": "banni\u00e8re / cat\u00e9gorie / socialmedia.jpg"
+    },
+    "status": 1,
+    "sort_index": 0
+  },
+  {
+    "id": 7,
+    "code": "Children",
+    "type": "Cat\u00e9gorie",
+    "banner": {
+      "url": "banni\u00e8re / cat\u00e9gorie / children.jpg"
+    },
+    "status": 1,
+    "sort_index": 0
+  },
+  {
+    "id": 8,
+    "code": "Women",
+    "type": "Cat\u00e9gorie",
+    "banner": {
+      "url": "banni\u00e8re / cat\u00e9gorie / women.jpg"
+    },
+    "status": 1,
+    "sort_index": 0
+  },
+  {
+    "id": 9,
+    "code": "Youth",
+    "type": "Cat\u00e9gorie",
+    "banner": {
+      "url": "banni\u00e8re / cat\u00e9gorie / Youth.jpg"
+    },
+    "status": 1,
+    "sort_index": 0
+  },
+  {
+    "id": 10,
+    "code": "Deaf",
+    "type": "Cat\u00e9gorie",
+    "banner": {
+      "url": "banni\u00e8re / cat\u00e9gorie / deaf.jpg"
+    },
+    "status": 0,
+    "sort_index": 0
+  },
+  {
+    "id": 11,
+    "code": "Gadgets",
+    "type": "Cat\u00e9gorie",
+    "banner": {
+      "url": "banni\u00e8re / cat\u00e9gorie / gadgets.jpg"
+    },
+    "status": 1,
+    "sort_index": 0
+  },
+  {
+    "id": 12,
+    "code": "Translation",
+    "type": "Cat\u00e9gorie",
+    "banner": {
+      "url": "banni\u00e8re / cat\u00e9gorie / translation.jpg"
+    },
+    "status": 1,
+    "sort_index": 0
+  },
+  {
+    "id": 13,
+    "code": "Other",
+    "type": "Cat\u00e9gorie",
+    "banner": {
+      "url": "banni\u00e8re / cat\u00e9gorie / storying.jpg"
+    },
+    "status": 1,
+    "sort_index": 0
+  },
+  {
+    "id": 14,
+    "code": "Islamic",
+    "type": "religious_context",
+    "banner": {
+      "url": "banni\u00e8re / cat\u00e9gorie / storying.jpg"
+    },
+    "status": 1,
+    "sort_index": 0
+  },
+  {
+    "id": 15,
+    "code": "Hinduist",
+    "type": "religious_context",
+    "banner": {
+      "url": "banni\u00e8re / cat\u00e9gorie / storying.jpg"
+    },
+    "status": 1,
+    "sort_index": 0
+  },
+  {
+    "id": 16,
+    "code": "Buddhist",
+    "type": "religious_context",
+    "banner": {
+      "url": "banni\u00e8re / cat\u00e9gorie / storying.jpg"
+    },
+    "status": 1,
+    "sort_index": 0
+  },
+  {
+    "id": 17,
+    "code": "Animist",
+    "type": "religious_context",
+    "banner": {
+      "url": "banni\u00e8re / cat\u00e9gorie / storying.jpg"
+    },
+    "status": 1,
+    "sort_index": 0
+  },
+  {
+    "id": 18,
+    "code": "Refugee",
+    "type": "contexte social",
+    "banner": {
+      "url": "banni\u00e8re / sociale / refugee.jpg"
+    },
+    "status": 1,
+    "sort_index": 0
+  },
+  {
+    "id": 19,
+    "code": "Urban",
+    "type": "contexte social",
+    "banner": {
+      "url": "banni\u00e8re / sociale / urban.jpg"
+    },
+    "status": 1,
+    "sort_index": 0
+  },
+  {
+    "id": 20,
+    "code": "Rural",
+    "type": "contexte social",
+    "banner": {
+      "url": "banni\u00e8re / sociale / rural.jpg"
+    },
+    "status": 1,
+    "sort_index": 0
+  },
+  {
+    "id": 21,
+    "code": "Diaspora",
+    "type": "contexte social",
+    "banner": {
+      "url": "banner/social/diaspora.jpg"
+    },
+    "status": 1,
+    "sort_index": 0
+  },
+  {
+    "id": 22,
+    "code": "Multilingual",
+    "type": "contexte social",
+    "banner": {
+      "url": "banni\u00e8re / sociale / multilingual.jpg"
+    },
+    "status": 1,
+    "sort_index": 0
+  },
+  {
+    "id": 23,
+    "code": "Opposition: Freedom to Commit",
+    "type": "fonctionnalit\u00e9",
+    "banner": {
+      "url": "banni\u00e8re / \u00e9tat / freedom.jpg"
+    },
+    "status": 1,
+    "sort_index": 0
+  },
+  {
+    "id": 24,
+    "code": "Relevance: Spiritual Hunger",
+    "type": "fonctionnalit\u00e9",
+    "banner": {
+      "url": "banner/condition/spiritual_hunger.jpg"
+    },
+    "status": 1,
+    "sort_index": 0
+  },
+  {
+    "id": 25,
+    "code": "Background: Understanding & Knowledge",
+    "type": "fonctionnalit\u00e9",
+    "banner": {
+      "url": "banni\u00e8re / \u00e9tat / background_knowledge.jpg"
+    },
+    "status": 1,
+    "sort_index": 0
+  },
+  {
+    "id": 26,
+    "code": "Partnership: Community Involvement",
+    "type": "fonctionnalit\u00e9",
+    "banner": {
+      "url": "banner/condition/partnership.jpg"
+    },
+    "status": 1,
+    "sort_index": 0
+  },
+  {
+    "id": 27,
+    "code": "Media: Accessible Formats",
+    "type": "fonctionnalit\u00e9",
+    "banner": {
+      "url": "banner/condition/accessible_format.jpg"
+    },
+    "status": 1,
+    "sort_index": 0
+  },
+  {
+    "id": 28,
+    "code": "Distribution:Available",
+    "type": "fonctionnalit\u00e9",
+    "banner": {
+      "url": "banni\u00e8re / \u00e9tat / availability.jpg"
+    },
+    "status": 1,
+    "sort_index": 0
+  },
+  {
+    "id": 29,
+    "code": "Language: Using the Right Ones",
+    "type": "fonctionnalit\u00e9",
+    "banner": {
+      "url": "banni\u00e8re / \u00e9tat / right_language.jpg"
+    },
+    "status": 1,
+    "sort_index": 0
+  },
+  {
+    "id": 30,
+    "code": "Translation: Acceptable Styles",
+    "type": "fonctionnalit\u00e9",
+    "banner": {
+      "url": "banner/condition/acceptable_translation.jpg"
+    },
+    "status": 1,
+    "sort_index": 0
+  }
+]
