@@ -1,0 +1,258 @@
+{
+  "navbar": {
+    "home": "HOME",
+    "steps": "5 STEPS OF",
+    "explore": "Explore",
+    "decide": "Decide",
+    "basket": "Basket of Tools",
+    "roadmap": "Roadmap",
+    "stayconnect": "Stay Connected",
+    "catalog": "CATALOG OF TOOLS"
+  },
+  "footer": {
+    "verse": "Taste and see that the Lord is good. Blessed is the one who takes refuge in Him!",
+    "ref": "Psalm 34:8",
+    "details": "Getting Acquainted",
+    "about": "About Us",
+    "faq": "Frequently Asked Questions",
+    "contact": "Contact",
+    "copyright": "Copyright © 2019 SIL International",
+    "privacy": "Privacy policy|Terms of use"
+  },
+  "user": {
+    "remember": "Remember me",
+    "forgot": "Forgot Password",
+    "alertVerify": "Please check your email and verify your email address to activate your registration.",
+    "matchError": "Passwords do not match",
+    "accept":"I agree to accept to the terms of privacy policy",
+    "alredyRegistered":"Already Registered?",
+    "note":"Note:",
+    "noteMsg":"Please use your organization email address to register, in order to ensure immediate processing.  In case, if you do not have an email address from an authorized Scripture Engagement organization, then you will need to go through additional steps for registration."
+  },
+  "home": {
+    "title": "Taste and See, that the Lord is good... Here's how in 5 steps",
+    "subTitle": "Multiple languages? Many different needs? No problem",
+    "catalogTitle": "Check out these categories and what tools are available."
+  },
+  "steps": [
+    {
+      "id": 1,
+      "code": "explore",
+      "title": "Explore",
+      "video_url": "/static/video/banner/explore.mp4",
+      "description": "Experience and feedback from communities from around the world has taught us that there are 8 major conditions that determine if people will use their Bible and lives will be transformed. In the EXPLORE section, we help you understand each of these conditions and to assess them in your community."
+    },
+    {
+      "id": 2,
+      "code": "decide",
+      "title": "Decide",
+      "video_url": "/static/video/banner/decide.mp4",
+      "description": "On the Decide section you will consider possible tools and strategies that will help strengthen the weak conditions in your situation. When we strengthen those conditions, it increases the impact God’s Word will have."
+    },
+    {
+      "id": 3,
+      "code": "basket",
+      "title": "Basket",
+      "video_url": "/static/video/banner/basket.mp4",
+      "description": "On the Basket Page you will see all of the tools you have chosen and are currently in Your Community Basket. Whether you have selected just a few tools or many, here you will begin to make decisions about how to proceed with your tools. You can also share your selections and see what your peers are saying."
+    },
+    {
+      "id": 4,
+      "code": "roadmap",
+      "title": "Roadmap",
+      "video_url": "/static/video/banner/roadmap.mp4",
+      "description": "A person could set out on a journey without a plan, but a little planning can go a long way to keep us from starting out in the wrong direction, making a wrong turn, or running out of resources so we never get to our destination. That is what the RoadMap page is all about. It will help you plan so that you can make it to your destination, and that you can make it with as few setbacks and frustrations as possible."
+    },
+    {
+      "id": 5,
+      "code": "stayconnected",
+      "title": "Stay Connected",
+      "video_url": "/static/video/banner/stay-connect.mp4",
+      "description": "There are a lot of ways you can Stay Connected with your peers around the world. Upload photos and videos showing the tools your Community used, write some helpful reviews, tell some stories, or chat about things your community learned or ask questions you may have."
+    }
+  ],
+  "homecategories": [
+    {
+      "id": 11,
+      "image": "01mobile.jpg",
+      "title": "Mobile"
+    },
+    {
+      "id": 7,
+      "image": "02children.jpg",
+      "title": "Children"
+    },
+    {
+      "id": 5,
+      "image": "03orality.jpg",
+      "title": "Orality"
+    },
+    {
+      "id": 3,
+      "image": "05video.jpg",
+      "title": "Video"
+    },
+    {
+      "id": 2,
+      "image": "04audio.jpg",
+      "title": "Audio"
+    },
+    {
+      "id": 6,
+      "image": "06socialmedia.jpg",
+      "title": "Social Media"
+    },
+    {
+      "id": 11,
+      "image": "07gadget.jpg",
+      "title": "Gadgets"
+    },
+    {
+      "id": 1,
+      "image": "08sotrying.jpg",
+      "title": "Stories"
+    }
+  ],
+  "general": {
+    "language": "LANGUAGE",
+    "steps": "STEPS",
+    "watchVideo": "Click here to watch How to use this page?",
+    "chooseLanguage":"Choose Language",
+    "progress": "Track Your Progress",
+    "selection": "Finished with Your Selection?",
+    "move": "Move to",
+    "itemsCompleted": "Items Completed",
+    "learnMore": "Learn more about the 5 Steps."
+  },
+  "button": {
+    "next": "Next Step",
+    "view": "View",
+    "browseAll": "BROWSE ALL",
+    "watch": "Watch how to use ",
+    "watchMobile": "Video",
+    "learnmore": "LEARN MORE",
+    "goto": "Go to",
+    "checkit": "Check it Out",
+    "browseNow": "Browse Now",
+    "signIn":"Sign in",
+    "register":"Register Now",
+    "login":"Login Now",
+    "reset":"Reset Password"
+  },
+  "explore": {
+    "intro": "Review each card below and choose how your community rates each Condition: Strong, Medium or Weak.There is further explanation below each card or click on the video. All your answers will be ready for your review and action in Step 2.",
+    "howStrong": "How strong is this condition currently?"
+  },
+  "decide": {
+    "title": "Your Community SNAPSHOT",
+    "intro": "Click on the '<i className=\"fas fa-meh\"></i>' and the '<i className=\"fas fa-frown\"></i>' boxes below and scroll down to see + select tools to help increase Impact in your Community.",
+    "congratulations":"CONGRATULATIONS!",
+    "popupText":"These Conditions are already strong in your community,no need to work on them right now,instead focus on Conditions from the other two boxes,Medium and Weak."
+    
+  },
+  "basket": {
+    "yourBasket": "Your Basket",
+    "items": "items"
+  },
+  "roadmap": {
+    "intro": "Select a tool to Create / Edit plan,your work will be saved automatically so your community can work on multiple Roadmap at the same time",
+    "alert": "Please register/ login to access Roadmap of events"
+  },
+  "catalog": {
+    "title":"Catalog of Tools",
+    "featuredTools": "Featured Tools",
+    "featuredCategory": "Featured Category",
+    "mobile":"Mobile",
+    "mobileText": "Use your phones to connect and spread God's Word. New Innovation!",
+    "oralitytext": "Impact Oral Learners in Your Community"
+  },
+  "about": {
+    "para1": "This website has been a team effort, created for our shared hope to see God’s Word impact communities around the world.",
+    "para2": "We are grateful for the generous contributions of staff, funding & prayer.",
+    "contactUs": "CONTACT US"
+  },
+  "privacy": {
+    "para1Title": "Privacy policy|Terms of use",
+    "para1Des": "This site is a service operated by SIL International to serve language communities worldwide. Our postal contact address is SIL Language Technology, 7500 West Camp Wisdom Road, Dallas, TX 75236, USA. This Privacy and Data Retention Policy applies only to what is provided through this service at tastesee.org, and not to other services of SIL International. SIL International is aware of the trust you place in us and our responsibility to protect your privacy. If you supply us with any personal details, including your name and email address, we will securely protect that information and not supply it to third-parties. We reserve the right to allow tastesee.org administrators to view your personal information and to contact you at the email address you provide in order to assist you. Activity on this site may be logged to improve the service and its security – to identify general usage patterns in order to improve the service, to help deal with inquiries and user requests, and to counter spam, unsolicited and inappropriate use of the service. Data that is identified with you or your IP address will be only used internally and will not be disclosed to others. Statistics may be generated based on this data and shared with others, but will never contain personally identifying information. We use Google Analytics, a web analysis service provided by Google Inc. (“Google”). Google uses the data collected to track and examine the use of www.tastesee.org, to prepare reports on its activities and share them with other Google services. We use this Google Analytics data to improve our online web properties, products, and services. We do not share, sell, rent, or lease this information to anyone outside of SIL. SIL International does not send unsolicited or 'spam' e-mail and does not sell, rent, or trade its e-mail lists to third parties.",
+    "para2Title": "Terms of Use",
+    "para2Des": "The resources found on the SIL International website are intended for non-commercial scholarly research and educational use. You may make copies of these publications for research or educational purposes in accordance with the SIL Fair Use Guidelines free of charge and without further permission. Republication or commercial use of anything on the SIL International website (unless stated otherwise) is expressly prohibited without the written consent of SIL International. You may make links to pages on this website (with proper attribution), but you may not mirror (i.e., place copies of) these documents, in part or whole, on your site without permission of SIL International"
+  },
+  "faq":{
+    "title":"Frequently asked questions",
+    "qa":[
+      {
+       "que":"What is Taste&See?",
+       "ans": "Taste&See is a web-based Scripture engagement tool that helps churches and those who serve them get a clearer picture of their own setting and of what Bible products would really help their community."
+      },
+      {
+        "que":"How does Taste&See help communities?",
+        "ans": "Taste&See uses a diagnostic tool—based on Wayne Dye’s Eight Conditions—to help assess the situation of the community. And it provides a catalog of many Bible tools and activities that churches might want to use in the languages that work best for them. They can decide to translate those products and in others ways make them fit their setting."
+      },
+      {
+        "que":"Can I navigate through the website without registering and signing in?",
+        "ans": "Yes, you can. You are free to navigate through Step 3—so up to adding tools and reviewing your what you have put in your basket."
+      },
+      {
+        "que":"Will my basket be saved, if I do not have a registered User ID?",
+        "ans": "Your basket will be active for that particular session that you are online. Once you close the browser you will be able to retrieve your basket till your browser cache is not cleared."
+       },
+       {
+        "que":"Can I create multiple baskets for multiple languages that I would like to assess?",
+        "ans": "Yes, you can, but you do need to register and sign in for that. Once you have done that, choose a language first and then create a basket. You can repeat the steps 1-3 for the next language. To switch between baskets, simply type the required language basket that you’d like to view, in the language text bar."
+       },
+       {
+        "que":"How can I use the Stay Connected Step?",
+        "ans": "That feature is not working yet but is in development with be released in the near future."
+       },
+       {
+        "que":"If I need any help, how can I get that?",
+        "ans": "Nearly all tools provide contact information help with that specific tool. But if you need help related to Taste&See, want some general advice, or have a question, please, contact us at info@tastesee.org."
+       },
+       {
+        "que":"What if I notice a mistake or a technical problem? ",
+        "ans": "Yes, please help us and let us know what’s amiss. Write to us at info@tastesee.org"
+       },
+       {
+        "que":"What if my organization has a tool (product, activity or description) to add to the Catalog?",
+        "ans": "Great! We seek to give our community the most helpful tools. So, please, contact us at info@tastesee.org about your tool."
+       }      
+    ]
+  },
+  "offline":{
+    "title":"Taste&See OFFLINE APP INSTALLATION STEPS",
+    "method1title":"Method 1 (Mouse Friendly approach)",
+    "method1List":[
+      "Click on 'Offline App', link. Save the app installation file to your PC",
+      "Open Chrome browser and go to Menu > Settings > Extensions page",
+      "Switch on 'Developer mode' on the top right corner of the Extensions page. (Note, this can be switched off after installation).",
+      "Click and drag the downloaded installation file (TasteSee.crx) to the extensions page",
+      "A new popup will appear asking you to 'Add Taste and See Offline?'",
+      "Click on the Add App button to complete the installation. Taste and See offline app will now be installed as a Chrome App and the logo will appear in the Chrome apps list.",
+      "The apps list can be accessed by clicking the 'Apps' button at the top left of the browser page.",
+      "Click on the Taste and See logo to open the offline App."
+    ],
+    "method2title":"Method 2 (Keyboard Friendly approach)",
+    "method2List":[
+      "Click on 'Offline App' link. Save the app installation file to your PC.",
+      "Open Chrome browser and type chrome://extension on the address bar to open the extension page.",
+      "Switch on 'Developer mode' on the top right corner of the extensions page. (Note, this can be switched off after installation).",
+      "Click and drag the downloaded installation file to the extensions page.",
+      "A new popup will appear asking you to 'Add Taste and See Offline?'",
+      "Click on the Add App to complete the installation. The Taste and See will get installed as a Chrome App and the logo will appear in the apps list. The apps list can be accessed by clicking the 'Apps' button at the top left of the browser page",
+      "Click on the Taste and See logo to open the offline App."
+    ],
+    "note":"Note: the computer needs to be online while the installation is in progress so that the App data synchronisation can take place.",
+    "instructionTitle":"App Usage Instructions:",
+    "instructionSubtitle":"To Open Taste and See offline app (after installation):",
+    "instructionList":[
+      "Open Chrome Browser.",
+      "Open Apps page by clicking 'Apps' on the top left corner of the page.",
+      "Click on the Taste and See logo to launch the Offline App.",
+      "Login page appears. Please log in using your Taste&See login and password.",
+      "Start using the offline version of the app.",
+      "Whenever the System is connected to the internet, click on the 'Sync now' button to sync your data with the server.",
+      "Note 1: Once offline app is installed, the user can use just that since all features of the online app is also available in the offline version as well.",
+      "Note 2: There is an option to sync your data with the server so that is saved and and retained for your future. However, the user can choose never to sync with the server to keep their data on their own PC."
+    ]
+  }
+}
